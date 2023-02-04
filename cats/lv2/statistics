@@ -1,0 +1,35 @@
+{
+    "male": [
+        {
+            "name": "玄幻",
+            "bookCount": 475245,
+            "monthlyCount": 13366,
+            "icon": "/icon/玄幻_.png"
+        }
+    ],
+    "female": [
+        {
+            "name": "古代言情",
+            "bookCount": 427554,
+            "monthlyCount": 9293,
+            "icon": "/icon/古代言情_.png"
+        }
+    ],
+    "picture": [
+        {
+            "name": "热血",
+            "bookCount": 330,
+            "monthlyCount": 0,
+            "icon": "/icon/热血_.png"
+        }
+    ],
+    "press": [
+        {
+            "name": "传记名著",
+            "bookCount": 2801,
+            "monthlyCount": 0,
+            "icon": "/icon/传记名著_.png"
+        }
+    ],
+    "ok": true
+}

@@ -1,0 +1,16 @@
+{
+    "total": 1916,
+    "bookLists": [
+        {
+            "_id": "5659f9c28498cf236a508b08",
+            "title": "无敌爽文🐎",
+            "author": "原罪&七罪",
+            "desc": "本人很,懒喜欢的收藏  经典📚无限📘  粮草&储备   ♞♞ 挑灯💡夜读📖   🌙",
+            "gender": "male",
+            "collectorCount": 31459,
+            "cover": "/agent/http%3A%2F%2Fimg.1391.com%2Fapi%2Fv1%2Fbookcenter%2Fcover%2F1%2F1183975%2F_1183975_531140.jpg%2F",
+            "bookCount": 437
+        }
+    ],
+    "ok": true
+}
